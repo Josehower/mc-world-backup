@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-05-09 17:20:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-06-26 17:13:12 +0000"
@@ -230,6 +236,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2021-06-26 17:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2022-05-11 21:23:38 +0000"
     },
     "done": true
   },
@@ -1439,6 +1451,7 @@
     "criteria": {
       "minecraft:taiga": "2021-07-27 15:14:47 +0000",
       "minecraft:deep_ocean": "2021-12-04 17:51:22 +0000",
+      "minecraft:birch_forest": "2022-05-16 18:51:19 +0000",
       "minecraft:windswept_hills": "2021-06-26 17:16:54 +0000",
       "minecraft:beach": "2021-06-26 17:02:43 +0000",
       "minecraft:river": "2021-06-26 17:15:53 +0000",

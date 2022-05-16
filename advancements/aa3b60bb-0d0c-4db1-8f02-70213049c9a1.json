@@ -1045,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2022-05-09 17:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-07-09 17:51:28 +0000"
@@ -1337,8 +1343,10 @@
     "criteria": {
       "minecraft:taiga": "2021-06-26 16:59:31 +0000",
       "minecraft:deep_ocean": "2021-12-04 18:04:45 +0000",
+      "minecraft:birch_forest": "2022-05-16 18:50:21 +0000",
       "minecraft:windswept_hills": "2021-06-27 14:32:54 +0000",
       "minecraft:beach": "2021-06-26 17:02:27 +0000",
+      "minecraft:dark_forest": "2022-05-16 18:50:05 +0000",
       "minecraft:river": "2021-06-26 17:02:29 +0000",
       "minecraft:stony_shore": "2021-06-27 15:21:30 +0000",
       "minecraft:swamp": "2021-07-11 18:47:27 +0000",
@@ -1348,7 +1356,8 @@
       "minecraft:desert": "2021-07-11 15:50:29 +0000",
       "minecraft:windswept_forest": "2022-04-30 12:10:33 +0000",
       "minecraft:ocean": "2021-12-04 17:46:41 +0000",
-      "minecraft:savanna": "2022-04-30 12:33:46 +0000"
+      "minecraft:savanna": "2022-04-30 12:33:46 +0000",
+      "minecraft:plains": "2022-05-09 18:14:18 +0000"
     },
     "done": false
   },
@@ -1945,12 +1954,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-06-28 17:25:26 +0000",
+      "chicken": "2022-05-16 18:32:24 +0000",
       "cooked_mutton": "2021-06-28 18:15:19 +0000",
       "sweet_berries": "2021-06-26 17:40:05 +0000",
       "cooked_beef": "2021-06-27 17:50:12 +0000",
       "apple": "2021-06-27 17:07:33 +0000",
       "bread": "2022-02-21 18:58:54 +0000",
       "rotten_flesh": "2021-06-27 17:07:42 +0000",
+      "cooked_chicken": "2022-05-16 18:33:55 +0000",
       "cooked_salmon": "2021-06-27 14:35:11 +0000"
     },
     "done": false
@@ -2925,6 +2936,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-06-27 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-05-09 17:22:18 +0000"
     },
     "done": true
   },
